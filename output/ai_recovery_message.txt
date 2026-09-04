@@ -1,1 +1,42 @@
+REVIVEAI - AI RECOVERY ASSISTANT
+======================================================================
 
+Customer ID: CUST0930
+Invoice ID: INV008812
+Invoice Amount: ₹342,078.87
+Days Overdue: 35
+Recovery Probability: 68.28%
+Expected Recovery: ₹233,577.59
+Risk Level: Medium
+Priority: Low Priority
+Customer Segment: SMB
+Recommended Action: Send personalized payment reminder
+
+======================================================================
+
+SUBJECT:
+Payment Follow-Up Required - Invoice INV008812
+
+MESSAGE:
+
+Dear Customer,
+
+We are following up regarding invoice
+INV008812 for ₹342,078.87,
+which is currently 35 days overdue.
+
+We would appreciate it if you could arrange the
+payment at your earliest convenience.
+
+If there is an issue preventing payment, please
+contact our accounts team so that we can assist
+you with the next steps.
+
+We value our relationship with you and appreciate
+your prompt attention to this matter.
+
+Best regards,
+ReviveAI Revenue Recovery Team
+
+AI STRATEGY:
+The invoice is moderately overdue. ReviveAI therefore recommends a personalized follow-up.
